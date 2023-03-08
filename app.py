@@ -73,3 +73,4 @@ if st.button('Recommend'):
             st.image(posters[9])
 
     
+st.header("Made with love by Pushkar")
