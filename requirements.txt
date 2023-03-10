@@ -1,6 +1,5 @@
 streamlit
 pandas
 numpy
-pickle
 bz2
 requests
